@@ -16,7 +16,7 @@ require("plugins/comment")
 require("plugins/autopairs")
 require("plugins/bufferline")
 
--- require("plugins/gitsigns")
+require("plugins/gitsigns")
 require("plugins.dashboard")
 require("plugins/telescope")
 -- require("plugins/coc-nvim")
